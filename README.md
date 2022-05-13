@@ -1,1 +1,1 @@
-Creating a repo!
+Git is cool!! Creating a repo!
